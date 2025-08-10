@@ -81,6 +81,10 @@
 ## 📊 GitHub Stats
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-RAUFUR-RAHIM&layout=compact&theme=tokyonight" alt="Top Languages" width="350" /> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MD-RAUFUR-RAHIM&theme=radical)
 
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-RAUFUR-RAHIM&layout=compact&theme=tokyonight" width="300" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-RAUFUR-RAHIM&theme=radical" width="300" alt="GitHub Streak" />
 
 
 
