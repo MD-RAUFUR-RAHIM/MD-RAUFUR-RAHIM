@@ -73,7 +73,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
   <!-- ORM -->
-  <img src="./assets/sql-Server.png" height="40" alt="Entity Framework" />
+  <img src="./assets/sql-Server.png.png" height="40" alt="Sql Server" />
 <img src="./assets/entity-framework.png" height="40" alt="Entity Framework" />
 </div>
 
