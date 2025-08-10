@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FnOTc3N2oxbzA1cmR0bWZsdzF4c2h3dGR6aWx5b3RxcmFpam94NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lHLlZbk1Y1A31TKf9x/giphy.gif" width="300"/>
+    <img src="./assets/Untitled design.gif" width="4000"/>
 </div>
 
 <h1 align="center">Hi <img width="28px" src="./assets/wave.gif" alt="wave" />, I'm Md. Raufur Rahim</h1>
@@ -22,12 +22,11 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/md-raufur-rahim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:raufurrahim2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.facebook.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/md-raufur-rahim/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raufur-rahim" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yourprofile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raufur-rahim" height="30" width="40" /></a>
+<a href="https://x.com/MarufKh75652706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raufur" height="30" width="40" /></a>
 </p>
 
----
 
 ## 🛠️ Languages and Tools
 
